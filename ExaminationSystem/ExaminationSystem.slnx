@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ExaminationSystem.Application/ExaminationSystem.Application.csproj" />
+  <Project Path="ExaminationSystem.Domain/ExaminationSystem.Domain.csproj" />
+  <Project Path="ExaminationSystem.Infrastructure/ExaminationSystem.Infrastructure.csproj" />
+  <Project Path="ExaminationSystem/ExaminationSystem.csproj" />
+</Solution>
