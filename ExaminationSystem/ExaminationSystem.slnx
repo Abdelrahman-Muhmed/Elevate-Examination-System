@@ -1,6 +1,6 @@
 <Solution>
   <Project Path="ExaminationSystem.Application/ExaminationSystem.Application.csproj" />
-  <Project Path="ExaminationSystem.Domain/ExaminationSystem.Domain.csproj" />
-  <Project Path="ExaminationSystem.Infrastructure/ExaminationSystem.Infrastructure.csproj" />
+  <Project Path="ExaminationSystem.Domain/ExaminationSystem.Domain.csproj" Id="57083124-6fa1-433e-8593-487ce4d18c3c" />
+  <Project Path="ExaminationSystem.Infrastructure/ExaminationSystem.Infrastructure.csproj" Id="4c44d877-f9d9-434d-9f0e-044b49915074" />
   <Project Path="ExaminationSystem/ExaminationSystem.csproj" />
 </Solution>
