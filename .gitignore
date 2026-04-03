@@ -53,3 +53,7 @@ CodeCoverage/
 TestResult.xml
 nunit-*.xml
 *.vsidx
+/ExaminationSystem/.vs/ExaminationSystem.slnx/config/applicationhost.config
+/ExaminationSystem/.vs/ExaminationSystem.slnx/v18/DocumentLayout.backup.json
+/ExaminationSystem/.vs/ExaminationSystem.slnx/v18/DocumentLayout.json
+/ExaminationSystem/.vs/ExaminationSystem.slnx/v18/.suo
